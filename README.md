@@ -1,6 +1,7 @@
 # Shopping Cart component
 
 Built with React, Typescript and Material-UI
+![Screen Shot 2021-02-28 at 10 22 52 AM](https://user-images.githubusercontent.com/59614789/109423825-f82e8200-79ae-11eb-800e-8e897e27f852.png)
 
 ## Getting Started with Create React App
 
