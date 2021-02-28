@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Shopping Cart component
+
+Built with React, Typescript and Material-UI
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
